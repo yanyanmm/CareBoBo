@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yanyanmm:YToolBar-v1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YToolBar-v1.0.0.aar/9c24153ec342e133652c203890679d53/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YToolBar-v1.0.0.aar/9c24153ec342e133652c203890679d53/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yanyanmm/YToolBar/v1.0.0/b1e6b1ebaba68c7db1e8b62630f4363c12703f8b/YToolBar-v1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">关爱宝宝</string>
+
+    <string name="menu_home">校园</string>
+    <string name="menu_circle">班级圈</string>
+    <string name="menu_msg">消息</string>
+    <string name="menu_my">我的</string>
+
+
+</resources>
